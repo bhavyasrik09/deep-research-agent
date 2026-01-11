@@ -65,3 +65,5 @@ watchdog==6.0.0
 xxhash==3.6.0
 zstandard==0.25.0
 fpdf2==2.7.9
+langchain-ollama==0.1.3
+
